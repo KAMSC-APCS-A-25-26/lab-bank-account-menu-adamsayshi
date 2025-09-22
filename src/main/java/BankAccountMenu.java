@@ -42,7 +42,6 @@ public class BankAccountMenu {
                     break;
                 case 3:
                     System.out.println("Your balance is:  " + balance);
-                    balance += sc.nextDouble();
                     break;
                 case 4:
                     System.out.println("Bye bye");
